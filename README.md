@@ -12,6 +12,8 @@
   ![SD3_3](https://github.com/user-attachments/assets/7c8cb3c4-2628-458a-964b-c7e777a8480c)
 
 ## ToDo List
+  - [x] 大语言模型
+  - [x] 图像生成模型
   - [ ] 接入语音情感识别
   - [ ] 大语言模型提示词优化
   - [ ] 图像生成模型优化
